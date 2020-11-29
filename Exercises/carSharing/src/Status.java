@@ -1,0 +1,3 @@
+public enum Status {
+    PARKEDONSTREET, OCCUPIED, PARKEDINPARK,AVAILABLE;
+}
