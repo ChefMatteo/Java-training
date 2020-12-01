@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.UUID;
 
 @Service
-public class DatabaseService {
+public class DatabaseService {  
     private static HashMap<String, EncryptedUser> users = new HashMap<>(); //key:username, value:user
     private static HashMap<String, String> loggedUsers = new HashMap<>(); //key:cookie, value:username
 
