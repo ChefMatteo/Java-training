@@ -7,6 +7,7 @@
       <mapping pattern="traccia4" type="PLAIN_TEXT" />
       <mapping pattern="ferrovia2" type="PLAIN_TEXT" />
       <mapping pattern="traccia" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
